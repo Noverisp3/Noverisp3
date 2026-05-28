@@ -1,6 +1,12 @@
+<div align="center">
+
 # Noverisp3
 
+![Github Views](https://views.igorkowalczyk.dev/api/badge/Noverisp3)
+
 Systems programmer focused on low-level engineering, kernel development, and hardware optimization.
+
+</div>
 
 ---
 
