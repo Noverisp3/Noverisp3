@@ -1,25 +1,16 @@
-# Nguyen (Noverisp3)
+# Noverisp3
 
-Software Developer specializing in low-level systems programming, OS kernel architectures, and software optimization.
-
----
-
-## Technical Expertise
-
-* **Languages:** C, C++, Python, ARM64 Assembly
-* **Operating Systems:** Linux (Kernel space, Drivers), Android Internals
-* **Tools & Systems:** Git, GNU Toolchain, Make/CMake, Bash scripting
+Systems programmer focused on low-level engineering, kernel development, and hardware optimization.
 
 ---
 
-## Areas of Interest
+## Technical Focus
 
-* Systems Architecture & Performance Optimization
-* Memory Management & Embedded Systems
-* Firmware Analysis & Security Research
+*   **Languages:** C, C++, ARM64 Assembly, Python, Bash
+*   **Systems:** Kernel development, I/O scheduling, memory management, and firmware analysis
+*   **Interests:** Low-level optimization, hardware security, and resource-efficient computing
 
 ---
 
-## GitHub Statistics
-
-[![Nguyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noverisp3&show_icons=false&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)](https://github.com/noverisp3)
+## Contact
+*   **GitHub:** [github.com/Noverisp3](https://github.com/Noverisp3)
